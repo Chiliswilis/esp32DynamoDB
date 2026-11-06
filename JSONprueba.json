@@ -1,0 +1,10 @@
+{
+    "device_id": "ESP32_001",
+    "temperature": 24.50,
+    "humidity": 42.60,
+    "distance_cm": 151.66,
+    "latitude": 19.489844,
+    "longitude": -104.630985,
+    "altitude_m": 310.3,
+    "satellites": 7
+}
