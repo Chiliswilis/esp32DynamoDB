@@ -1,0 +1,10 @@
+{
+  "shipment_id": "ENV-2026-8001",
+  "device_id": "ESP32_001",
+  "tipo_transporte": "Trailer de Refrigeración",
+  "placa": "JAL-1234-X",
+  "origen": "Guadalajara, JAL",
+  "destino": "Manzanillo, COL",
+  "status": "En Ruta",
+  "ultima_medicion_id": "" 
+}
